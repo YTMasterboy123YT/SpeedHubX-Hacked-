@@ -9,7 +9,7 @@ local eggs = library:CreateWindow({text = "Open Eggs"})
 local credits = library:CreateWindow({text = "Credits"})
 
 -- Credits
-credits:AddLabel("Credits: Zyx: Developer\nVersion 1.2\n Lastest Version!")
+credits:AddLabel("Credits: Masterboy123: Developer\nVersion 1.2\n Lastest Version!")
 
 -- Auto Farm Orbs
 lib:AddToggle("Auto Farm Orbs", function(state)
